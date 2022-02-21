@@ -13,7 +13,7 @@ Instruções para instalar o API:
 
 Como utilizar a API:
 
-- Acesse o link o navegador: http://localhost:3000/paginacao?pagina=10&quantidade=10
+- Acesse o link no navegador: http://localhost:3000/paginacao?pagina=10&quantidade=10
 
 - Altere os valores de 'pagina' e 'quantidade'.
 
